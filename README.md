@@ -1,6 +1,22 @@
-
-<br>
-<p align="center">
-<a href="https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Technology%20Virtual%20Experience" target="_blank">
-<img src="https://insidesherpa-assets.s3-ap-southeast-2.amazonaws.com/icons/jpmorgan/github+repo+images/jpm+gitub+.png"></a>
-</p>
+# JPMorgan-Chase-Virtual-Experience
+This repository includes all the patch files for the various tasks submitted for the JPMorgan Chase & Co. Software Engineering Virtual Experience.
+## The program's tasks are listed below:-
+####  1. Interface with a stock price data feed
+Interface with a stock price data feed and set up your system for analysis of the data <br>
+``` Financial Data ``` &nbsp;
+``` Python ``` &nbsp;
+``` Git ``` &nbsp;
+``` Basic Programming ``` &nbsp; <br>
+[View the task ->](https://github.com/JANVI062/JPMorgan-Chase-Virtual-Experience/tree/master/JPMC-tech-task-1-PY3)
+#### 2. Use JPMorgan Chase frameworks and tools
+Implement the Perspective open source code in preparation for data visualization <br>
+``` React ``` &nbsp;
+``` Typescript ``` &nbsp;
+``` Web Applications ``` &nbsp; <br>
+[View the task ->](https://github.com/JANVI062/JPMorgan-Chase-Virtual-Experience/tree/master/JPMC-tech-task-2-PY3)
+#### 3. Display data visually for traders
+Use Perspective to create the chart for the trader’s dashboard <br>
+``` Technical Communication ``` &nbsp;
+``` Financial Analysis ``` &nbsp;
+``` Web Applications ``` &nbsp; <br>
+[View the task ->](https://github.com/JANVI062/JPMorgan-Chase-Virtual-Experience/tree/master/JPMC-tech-task-3-PY3)
